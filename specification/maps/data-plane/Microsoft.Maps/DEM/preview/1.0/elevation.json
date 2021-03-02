@@ -527,13 +527,13 @@
       "type": "object",
       "properties": {
         "latitude": {
-          "description": "Latitude property",
+          "description": "Latitude property.",
           "type": "number",
           "format": "double",
           "readOnly": true
         },
         "longitude": {
-          "description": "Longitude property",
+          "description": "Longitude property.",
           "type": "number",
           "format": "double",
           "readOnly": true
@@ -545,12 +545,12 @@
       "type": "object",
       "properties": {
         "lat": {
-          "description": "Latitude property",
+          "description": "Latitude property.",
           "type": "number",
           "format": "double"
         },
         "lon": {
-          "description": "Longitude property",
+          "description": "Longitude property.",
           "type": "number",
           "format": "double"
         }
